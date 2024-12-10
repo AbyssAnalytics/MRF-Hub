@@ -97,7 +97,7 @@ While MRF Hub currently provides direct links to the pages where MRF files can b
 
 ## 🤝 Contributing
 
-Contributions are welcome! To add a new MRF download link:
+Contributions are welcome! To add a new or correct MRF download link:
 
 1. **Fork the Repository**
 2. **Create a New Branch**
