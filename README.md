@@ -45,7 +45,7 @@ Below is a table of healthcare payers along with their respective **Resolved MRF
 | Blue Shield California                  | [Link](https://www.blueshieldca.com/en/home/help-and-resources/machine-readable-files)                                   |
 | Cigna                                   | [Link](https://www.cigna.com/legal/compliance/machine-readable-files)                                                   |
 | CareFirst                               | [Link](https://individual.carefirst.com/individuals-families/mandates-policies/machine-readable-file.page?submit=true&componentID=1645309246851) |
-| Dean Health Plan                        | [Link](HTTP 403: https://mrf.payerset.com/dean)                                                                           |
+| Dean Health Plan                        | [Link](https://app.deancare.com/price-transparency/)                                                                           |
 | Community Care of Oklahoma              | [Link](https://www.ccok.com/Price-Transparency/Machine-Readable/)                                                        |
 | Elevance (Anthem)                       | [Link](https://www.anthem.com/machine-readable-file/search/)                                                              |
 | Emblem Health                           | [Link](https://transparency.emblemhealth.com/INN)                                                                        |
