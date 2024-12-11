@@ -30,7 +30,6 @@ Below is a table of healthcare payers along with their respective **Resolved MRF
 | Blue Cross Blue Shield Michigan         | [Link](https://www.bcbsm.com/mrf/index/)                                                                                  |
 | Blue Cross Blue Shield Montana          | [Link](https://www.bcbsmt.com/member/machine-readable-files)                                                              |
 | Blue Cross Blue Shield New Mexico       | [Link](https://www.bcbsnm.com/member/policy-forms/machine-readable-file)                                                  |
-| Blue Cross Blue Shield North Carolina   | [Link](https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29_blue-cross-and-blue-shield-of-north-carolina_index.json) |
 | Blue Cross Blue Shield North Carolina   | [Link](https://www.bluecrossnc.com/policies-best-practices/machine-readable-files)                                        |
 | Blue Cross Blue Shield North Dakota     | [Link](https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-11-01_BlueCrossBlueShieldND_index.json)                  |
 | Blue Cross Blue Shield Oklahoma         | [Link](https://www.bcbsok.com/member/policy-forms/machine-readable-file)                                                  |
@@ -98,7 +97,7 @@ While MRF Hub currently provides direct links to the pages where MRF files can b
 
 ## 🤝 Contributing
 
-Contributions are welcome! To add a new MRF download link:
+Contributions are welcome! To add a new or correct MRF download link:
 
 1. **Fork the Repository**
 2. **Create a New Branch**
