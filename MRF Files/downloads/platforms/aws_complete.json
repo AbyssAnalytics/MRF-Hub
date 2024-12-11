@@ -1,0 +1,115 @@
+{
+  "platform": "aws",
+  "payer_count": 5,
+  "total_endpoints": 1383,
+  "success_rate": 100.0,
+  "endpoints": [
+    {
+      "url": "https://d1hgtx7rrdl2cn.cloudfront.net/mrf/toc/FloridaBlue_Health-Insurance-Issuer_index.json",
+      "type": "index_files",
+      "payer": "www.floridablue.com"
+    },
+    {
+      "url": "https://d1hgtx7rrdl2cn.cloudfront.net/mrf/toc/FloridaBlue_Third-Party-Administrator_index.json",
+      "type": "index_files",
+      "payer": "www.floridablue.com"
+    },
+    {
+      "url": "https://files.guidewell.com/m/60fd408f26c613d8/original/Machine-Readable-File-MRF.pdf",
+      "type": "other",
+      "payer": "www.floridablue.com"
+    },
+    {
+      "url": "https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files",
+      "type": "other",
+      "payer": "www.floridablue.com"
+    },
+    {
+      "url": "https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files?_hn:type=action&amp;_hn:ref=r336_r2",
+      "type": "other",
+      "payer": "www.floridablue.com"
+    },
+    {
+      "url": "https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files?_hn:type=action&amp;_hn:ref=r336_r2_r4",
+      "type": "other",
+      "payer": "www.floridablue.com"
+    },
+    {
+      "url": "https://d7k0rj9u1dp84.cloudfront.net/aso_directory.json",
+      "type": "other",
+      "payer": "www.bcbst.com"
+    },
+    {
+      "url": "https://d7k0rj9u1dp84.cloudfront.net/non_aso_directory.json",
+      "type": "other",
+      "payer": "www.bcbst.com"
+    },
+    {
+      "url": "https://surveygizmobeacon.s3.amazonaws.com/beaconconfigs/NzA0MjE2LTNlNjI0N2ZkNjViYmZjZTVmOTg2NmFhYzBlMjRhZGRkMzhmNGNlOTYyYjQ2Mzc1ODk2.json",
+      "type": "other",
+      "payer": "www.bluecrossvt.org"
+    },
+    {
+      "url": "https://shp-web-public.s3.amazonaws.com/PRD/exchange/cms-data-index.json",
+      "type": "index_files",
+      "payer": "www.securityhealth.org"
+    },
+    {
+      "url": "https://shp-web-public.s3.amazonaws.com/PRD/exchange/providers.json",
+      "type": "provider_references",
+      "payer": "www.securityhealth.org"
+    },
+    {
+      "url": "https://shp-web-public.s3.amazonaws.com/PRD/exchange/drugs.json",
+      "type": "other",
+      "payer": "www.securityhealth.org"
+    },
+    {
+      "url": "https://shp-web-public.s3.amazonaws.com/PRD/exchange/plans.json",
+      "type": "other",
+      "payer": "www.securityhealth.org"
+    },
+    {
+      "url": "https://payerset-public.s3.amazonaws.com/payer-mrfs/SelectHealth_02_2024_index.json",
+      "type": "index_files",
+      "payer": "payerset-public.s3.amazonaws.com"
+    }
+  ],
+  "payers": [
+    {
+      "name": "www.floridablue.com",
+      "url": "https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files",
+      "endpoint_count": 6,
+      "status": "success"
+    },
+    {
+      "name": "www.bcbst.com",
+      "url": "https://www.bcbst.com/tcr",
+      "endpoint_count": 2,
+      "status": "success"
+    },
+    {
+      "name": "www.bluecrossvt.org",
+      "url": "https://www.bluecrossvt.org/our-plans/employers-and-groups/machine-readable-files",
+      "endpoint_count": 1,
+      "status": "success"
+    },
+    {
+      "name": "www.securityhealth.org",
+      "url": "https://www.securityhealth.org/insurance-resources/json",
+      "endpoint_count": 4,
+      "status": "success"
+    },
+    {
+      "name": "payerset-public.s3.amazonaws.com",
+      "url": "https://payerset-public.s3.amazonaws.com/payer-mrfs/SelectHealth_02_2024_index.json",
+      "endpoint_count": 1,
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.264365",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json",
+    "last_updated": null
+  }
+}

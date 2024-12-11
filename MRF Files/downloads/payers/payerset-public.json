@@ -1,0 +1,20 @@
+{
+  "payer": "payerset-public",
+  "platform": "unknown",
+  "total_endpoints": 1,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [
+      "https://payerset-public.s3.amazonaws.com/payer-mrfs/SelectHealth_02_2024_index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": []
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.300182",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

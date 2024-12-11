@@ -1,0 +1,561 @@
+{
+  "platform": "centene",
+  "payer_count": 6,
+  "total_endpoints": 11190,
+  "success_rate": 100.0,
+  "endpoints": [
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_ambetter_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_fidelis_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_healthnet_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_alf_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_arnold_and_blevins_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_big_four_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_fort_smith_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_hot_springs_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_dillards_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_jv_manufacturing_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_royal_financial_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_wellcarenc_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.anthem.com/machine-readable-file/search/",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.cigna.com/legal/compliance/machine-readable-files",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.healthnet.com/content/healthnet/en_us/transparency-files.html",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.hmsa.com/transparencymrf",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_ambetter_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_fidelis_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_healthnet_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_alf_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_arnold_and_blevins_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_big_four_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_fort_smith_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_hot_springs_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_dillards_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_jv_manufacturing_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_royal_financial_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_wellcarenc_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.anthem.com/machine-readable-file/search/",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.cigna.com/legal/compliance/machine-readable-files",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.healthnet.com/content/healthnet/en_us/transparency-files.html",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.hmsa.com/transparencymrf",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_ambetter_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_fidelis_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_healthnet_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_alf_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_arnold_and_blevins_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_big_four_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_fort_smith_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_hot_springs_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_dillards_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_jv_manufacturing_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_royal_financial_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_wellcarenc_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.anthem.com/machine-readable-file/search/",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.cigna.com/legal/compliance/machine-readable-files",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.healthnet.com/content/healthnet/en_us/transparency-files.html",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.hmsa.com/transparencymrf",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_ambetter_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_fidelis_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_healthnet_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_alf_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_arnold_and_blevins_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_big_four_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_fort_smith_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_hot_springs_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_dillards_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_jv_manufacturing_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_royal_financial_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_wellcarenc_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.anthem.com/machine-readable-file/search/",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.cigna.com/legal/compliance/machine-readable-files",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.healthnet.com/content/healthnet/en_us/transparency-files.html",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.hmsa.com/transparencymrf",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_ambetter_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_fidelis_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_healthnet_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_alf_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_arnold_and_blevins_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_big_four_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_fort_smith_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_hot_springs_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_dillards_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_jv_manufacturing_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_royal_financial_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_wellcarenc_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.anthem.com/machine-readable-file/search/",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.cigna.com/legal/compliance/machine-readable-files",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.healthnet.com/content/healthnet/en_us/transparency-files.html",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.hmsa.com/transparencymrf",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_ambetter_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_fidelis_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_healthnet_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_alf_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_arnold_and_blevins_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_big_four_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_fort_smith_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_hot_springs_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_dillards_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_jv_manufacturing_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_royal_financial_plan_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_wellcarenc_index.json",
+      "type": "index_files",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.anthem.com/machine-readable-file/search/",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.cigna.com/legal/compliance/machine-readable-files",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.healthnet.com/content/healthnet/en_us/transparency-files.html",
+      "type": "other",
+      "payer": "www.centene.com"
+    },
+    {
+      "url": "https://www.hmsa.com/transparencymrf",
+      "type": "other",
+      "payer": "www.centene.com"
+    }
+  ],
+  "payers": [
+    {
+      "name": "www.centene.com",
+      "url": "https://www.centene.com/price-transparency-files.html",
+      "endpoint_count": 17,
+      "status": "success"
+    },
+    {
+      "name": "www.centene.com",
+      "url": "https://www.centene.com/price-transparency-files.html",
+      "endpoint_count": 17,
+      "status": "success"
+    },
+    {
+      "name": "www.centene.com",
+      "url": "https://www.centene.com/price-transparency-files.html",
+      "endpoint_count": 17,
+      "status": "success"
+    },
+    {
+      "name": "www.centene.com",
+      "url": "https://www.centene.com/price-transparency-files.html",
+      "endpoint_count": 17,
+      "status": "success"
+    },
+    {
+      "name": "www.centene.com",
+      "url": "https://www.centene.com/price-transparency-files.html",
+      "endpoint_count": 17,
+      "status": "success"
+    },
+    {
+      "name": "www.centene.com",
+      "url": "https://www.centene.com/price-transparency-files.html",
+      "endpoint_count": 17,
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.254644",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json",
+    "last_updated": null
+  }
+}

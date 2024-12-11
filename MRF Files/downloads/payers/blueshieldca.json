@@ -1,0 +1,22 @@
+{
+  "payer": "blueshieldca",
+  "platform": "unknown",
+  "total_endpoints": 3,
+  "success_rate": 100.0,
+  "last_updated": "2022-10-01",
+  "endpoints": {
+    "index_files": [],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://mrf.healthsparq.com/bsca-egress.nophi.kyruushsq.com/prd/mrf/BSCA_I/BSCA/2022-10-01/inNetworkRates/2022-10-01_P00000000002_Blue-Shield-of-California.json.gz",
+      "https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage",
+      "https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rule-fact-sheet-cms-9915-f"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.292025",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

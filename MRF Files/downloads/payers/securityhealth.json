@@ -1,0 +1,25 @@
+{
+  "payer": "securityhealth",
+  "platform": "unknown",
+  "total_endpoints": 4,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [
+      "https://shp-web-public.s3.amazonaws.com/PRD/exchange/cms-data-index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [
+      "https://shp-web-public.s3.amazonaws.com/PRD/exchange/providers.json"
+    ],
+    "other": [
+      "https://shp-web-public.s3.amazonaws.com/PRD/exchange/drugs.json",
+      "https://shp-web-public.s3.amazonaws.com/PRD/exchange/plans.json"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.299171",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

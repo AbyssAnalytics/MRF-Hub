@@ -1,0 +1,27 @@
+{
+  "payer": "lifewise",
+  "platform": "unknown",
+  "total_endpoints": 7,
+  "success_rate": 100.0,
+  "last_updated": "2024-12-01",
+  "endpoints": {
+    "index_files": [
+      "https://lifewise.sapphiremrfhub.com/tocs/202412/2024-12-01_lifewise-assurance-company_index.json",
+      "https://lifewise.sapphiremrfhub.com/tocs/202412/2024-12-01_lifewise-health-plan-of-washington_index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://lifewise.sapphiremrfhub.com/page-data/app-data.json",
+      "https://lifewise.sapphiremrfhub.com/page-data/index/page-data.json",
+      "https://lifewise.sapphiremrfhub.com/page-data/sq/d/254433488.json",
+      "https://lifewise.sapphiremrfhub.com/page-data/sq/d/3220486668.json",
+      "https://lifewise.sapphiremrfhub.com/page-data/sq/d/3847420470.json"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.297024",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

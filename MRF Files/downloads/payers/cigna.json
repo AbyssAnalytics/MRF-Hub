@@ -1,0 +1,26 @@
+{
+  "payer": "cigna",
+  "platform": "unknown",
+  "total_endpoints": 7,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://cdn.cookielaw.org/consent/51421e0d-e647-4b8b-8e9c-6da1d6781b40/0192de2e-47e0-77ad-8fa4-8dace573e9f4/en.json",
+      "https://cdn.cookielaw.org/consent/51421e0d-e647-4b8b-8e9c-6da1d6781b40/51421e0d-e647-4b8b-8e9c-6da1d6781b40.json",
+      "https://cdn.cookielaw.org/scripttemplates/202403.2.0/assets/v2/otPcCenter.json",
+      "https://ucm-us.verint-cdn.com/files/sites/cigna/live/config.json",
+      "https://www.cigna.com/legal/compliance/machine-readable",
+      "https://www.cigna.com/static/mrf/latest.json",
+      "https://www.cigna.com/static/www-cigna-com/json/machine-readable-files.json"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.292025",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

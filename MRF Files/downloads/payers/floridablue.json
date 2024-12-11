@@ -1,0 +1,26 @@
+{
+  "payer": "floridablue",
+  "platform": "unknown",
+  "total_endpoints": 6,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [
+      "https://d1hgtx7rrdl2cn.cloudfront.net/mrf/toc/FloridaBlue_Health-Insurance-Issuer_index.json",
+      "https://d1hgtx7rrdl2cn.cloudfront.net/mrf/toc/FloridaBlue_Third-Party-Administrator_index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://files.guidewell.com/m/60fd408f26c613d8/original/Machine-Readable-File-MRF.pdf",
+      "https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files",
+      "https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files?_hn:type=action&amp;_hn:ref=r336_r2",
+      "https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files?_hn:type=action&amp;_hn:ref=r336_r2_r4"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.276442",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

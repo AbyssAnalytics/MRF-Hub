@@ -1,0 +1,23 @@
+{
+  "payer": "bluecrossnc",
+  "platform": "unknown",
+  "total_endpoints": 3,
+  "success_rate": 100.0,
+  "last_updated": "2024-11-25",
+  "endpoints": {
+    "index_files": [
+      "https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-11-25_blue-cross-and-blue-shield-of-north-carolina_index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://www.bluecrossnc.com/content/bcbsnc/us/en/policies-best-practices/machine-readable-files/jcr:content/root/v1/container_190471051/contentfragmentlist.model.json",
+      "https://www.bluecrossnc.com/policies-best-practices/machine-readable-files/jcr:content/root/v1/container_190471051/contentfragmentlist.model.json"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.285111",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "payer": "bcbstx",
+  "platform": "unknown",
+  "total_endpoints": 2,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://collection.decibelinsight.net/i/13998/614634/c.json",
+      "https://www.bcbstx.com/content/dam/bcbs/mrf/fi-filelist.json"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.288019",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

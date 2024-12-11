@@ -1,0 +1,132 @@
+{
+  "platform": "bcbs",
+  "payer_count": 7,
+  "total_endpoints": 1441,
+  "success_rate": 100.0,
+  "endpoints": [
+    {
+      "url": "https://collection.decibelinsight.net/i/13998/614634/c.json",
+      "type": "other",
+      "payer": "www.bcbsil.com"
+    },
+    {
+      "url": "https://www.bcbsil.com/content/dam/bcbs/mrf/fi-filelist.json",
+      "type": "other",
+      "payer": "www.bcbsil.com"
+    },
+    {
+      "url": "https://www.bcbsm.com/amslibs/content/dam/public/shared-assets/documents/externalModal.json",
+      "type": "other",
+      "payer": "www.bcbsm.com"
+    },
+    {
+      "url": "https://www.bcbsm.com/mrf/index/",
+      "type": "other",
+      "payer": "www.bcbsm.com"
+    },
+    {
+      "url": "https://www.bcbsm.com/mrf/index/.advantageplanpremium.json?year=2021&planId=&countyId=wayne",
+      "type": "other",
+      "payer": "www.bcbsm.com"
+    },
+    {
+      "url": "https://collection.decibelinsight.net/i/13998/614634/c.json",
+      "type": "other",
+      "payer": "www.bcbsnm.com"
+    },
+    {
+      "url": "https://www.bcbsnm.com/content/dam/bcbs/mrf/fi-filelist.json",
+      "type": "other",
+      "payer": "www.bcbsnm.com"
+    },
+    {
+      "url": "https://collection.decibelinsight.net/i/13998/614634/c.json",
+      "type": "other",
+      "payer": "www.bcbsok.com"
+    },
+    {
+      "url": "https://www.bcbsok.com/content/dam/bcbs/mrf/fi-filelist.json",
+      "type": "other",
+      "payer": "www.bcbsok.com"
+    },
+    {
+      "url": "https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29_blue-cross-and-blue-shield-of-north-carolina_index.json",
+      "type": "index_files",
+      "payer": "mrfmftprod.bcbsnc.com"
+    },
+    {
+      "url": "https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-11-25_blue-cross-and-blue-shield-of-north-carolina_index.json",
+      "type": "index_files",
+      "payer": "www.bluecrossnc.com"
+    },
+    {
+      "url": "https://www.bluecrossnc.com/content/bcbsnc/us/en/policies-best-practices/machine-readable-files/jcr:content/root/v1/container_190471051/contentfragmentlist.model.json",
+      "type": "other",
+      "payer": "www.bluecrossnc.com"
+    },
+    {
+      "url": "https://www.bluecrossnc.com/policies-best-practices/machine-readable-files/jcr:content/root/v1/container_190471051/contentfragmentlist.model.json",
+      "type": "other",
+      "payer": "www.bluecrossnc.com"
+    },
+    {
+      "url": "https://collection.decibelinsight.net/i/13998/614634/c.json",
+      "type": "other",
+      "payer": "www.bcbstx.com"
+    },
+    {
+      "url": "https://www.bcbstx.com/content/dam/bcbs/mrf/fi-filelist.json",
+      "type": "other",
+      "payer": "www.bcbstx.com"
+    }
+  ],
+  "payers": [
+    {
+      "name": "www.bcbsil.com",
+      "url": "https://www.bcbsil.com/member/policy-forms/machine-readable-file",
+      "endpoint_count": 2,
+      "status": "success"
+    },
+    {
+      "name": "www.bcbsm.com",
+      "url": "https://www.bcbsm.com/mrf/index/",
+      "endpoint_count": 3,
+      "status": "success"
+    },
+    {
+      "name": "www.bcbsnm.com",
+      "url": "https://www.bcbsnm.com/member/policy-forms/machine-readable-file",
+      "endpoint_count": 2,
+      "status": "success"
+    },
+    {
+      "name": "www.bcbsok.com",
+      "url": "https://www.bcbsok.com/member/policy-forms/machine-readable-file",
+      "endpoint_count": 2,
+      "status": "success"
+    },
+    {
+      "name": "mrfmftprod.bcbsnc.com",
+      "url": "https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29_blue-cross-and-blue-shield-of-north-carolina_index.json",
+      "endpoint_count": 1,
+      "status": "success"
+    },
+    {
+      "name": "www.bluecrossnc.com",
+      "url": "https://www.bluecrossnc.com/policies-best-practices/machine-readable-files",
+      "endpoint_count": 3,
+      "status": "success"
+    },
+    {
+      "name": "www.bcbstx.com",
+      "url": "https://www.bcbstx.com/member/policy-forms/machine-readable-file",
+      "endpoint_count": 2,
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.266919",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json",
+    "last_updated": null
+  }
+}

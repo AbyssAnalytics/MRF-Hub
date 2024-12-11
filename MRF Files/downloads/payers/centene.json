@@ -1,0 +1,37 @@
+{
+  "payer": "centene",
+  "platform": "unknown",
+  "total_endpoints": 102,
+  "success_rate": 100.0,
+  "last_updated": "2024-11-25",
+  "endpoints": {
+    "index_files": [
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_ambetter_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_fidelis_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_healthnet_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_alf_plan_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_arnold_and_blevins_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_big_four_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_fort_smith_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_city_of_hot_springs_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_dillards_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_jv_manufacturing_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_qualchoice_royal_financial_plan_index.json",
+      "https://www.centene.com/content/dam/centene/Centene%20Corporate/json/DOCUMENT/2024-11-25_wellcarenc_index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://www.anthem.com/machine-readable-file/search/",
+      "https://www.cigna.com/legal/compliance/machine-readable-files",
+      "https://www.healthnet.com/content/healthnet/en_us/transparency-files.html",
+      "https://www.hmsa.com/transparencymrf"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.274443",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

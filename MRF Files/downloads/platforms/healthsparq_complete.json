@@ -1,0 +1,99 @@
+{
+  "platform": "healthsparq",
+  "payer_count": 4,
+  "total_endpoints": 1384,
+  "success_rate": 100.0,
+  "endpoints": [
+    {
+      "url": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICSI/latest_metadata.json",
+      "type": "provider_references",
+      "payer": "health1.aetna.com"
+    },
+    {
+      "url": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/deep_link_map.json",
+      "type": "provider_references",
+      "payer": "health1.aetna.com"
+    },
+    {
+      "url": "https://health1.aetna.com/healthsparq/public/service/v2/mrf/all",
+      "type": "other",
+      "payer": "health1.aetna.com"
+    },
+    {
+      "url": "https://mrf.healthsparq.com/bsca-egress.nophi.kyruushsq.com/prd/mrf/BSCA_I/BSCA/2022-10-01/inNetworkRates/2022-10-01_P00000000002_Blue-Shield-of-California.json.gz",
+      "type": "other",
+      "payer": "www.blueshieldca.com"
+    },
+    {
+      "url": "https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage",
+      "type": "other",
+      "payer": "www.blueshieldca.com"
+    },
+    {
+      "url": "https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rule-fact-sheet-cms-9915-f",
+      "type": "other",
+      "payer": "www.blueshieldca.com"
+    },
+    {
+      "url": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/ALICSI/latest_metadata.json",
+      "type": "provider_references",
+      "payer": "health1.aetna.com"
+    },
+    {
+      "url": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/AETNACVS_I/deep_link_map.json",
+      "type": "provider_references",
+      "payer": "health1.aetna.com"
+    },
+    {
+      "url": "https://health1.aetna.com/healthsparq/public/service/v2/mrf/all",
+      "type": "other",
+      "payer": "health1.aetna.com"
+    },
+    {
+      "url": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/MERITAIN_I/MERITAINOVER/latest_metadata.json",
+      "type": "provider_references",
+      "payer": "health1.meritain.com"
+    },
+    {
+      "url": "https://mrf.healthsparq.com/aetnacvs-egress.nophi.kyruushsq.com/prd/mrf/MERITAIN_I/deep_link_map.json",
+      "type": "provider_references",
+      "payer": "health1.meritain.com"
+    },
+    {
+      "url": "https://health1.meritain.com/healthsparq/public/service/v2/mrf/all",
+      "type": "other",
+      "payer": "health1.meritain.com"
+    }
+  ],
+  "payers": [
+    {
+      "name": "health1.aetna.com",
+      "url": "https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I&brandCode=ALICSI/machine-readable-transparency-in-coverage",
+      "endpoint_count": 3,
+      "status": "success"
+    },
+    {
+      "name": "www.blueshieldca.com",
+      "url": "https://www.blueshieldca.com/en/home/help-and-resources/machine-readable-files",
+      "endpoint_count": 3,
+      "status": "success"
+    },
+    {
+      "name": "health1.aetna.com",
+      "url": "https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I&brandCode=ALICSI/machine-readable-transparency-in-coverage?reportingEntityType=Third%20Party%20Administrator_14651517&lock=true",
+      "endpoint_count": 3,
+      "status": "success"
+    },
+    {
+      "name": "health1.meritain.com",
+      "url": "https://health1.meritain.com/app/public/#/one/insurerCode=MERITAIN_I&brandCode=MERITAINOVER/machine-readable-transparency-in-coverage",
+      "endpoint_count": 3,
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.260370",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json",
+    "last_updated": null
+  }
+}

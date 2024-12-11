@@ -1,0 +1,26 @@
+{
+  "payer": "bcbskc",
+  "platform": "unknown",
+  "total_endpoints": 6,
+  "success_rate": 100.0,
+  "last_updated": "2024-12-01",
+  "endpoints": {
+    "index_files": [
+      "https://bcbskc.sapphiremrfhub.com/tocs/202412/2024-12-01_blue-cross-and-blue-shield-of-kansas-city_index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://bcbskc.sapphiremrfhub.com/page-data/app-data.json",
+      "https://bcbskc.sapphiremrfhub.com/page-data/index/page-data.json",
+      "https://bcbskc.sapphiremrfhub.com/page-data/sq/d/254433488.json",
+      "https://bcbskc.sapphiremrfhub.com/page-data/sq/d/3220486668.json",
+      "https://bcbskc.sapphiremrfhub.com/page-data/sq/d/3847420470.json"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.278090",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

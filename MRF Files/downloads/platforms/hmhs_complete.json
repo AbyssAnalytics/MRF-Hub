@@ -1,0 +1,26 @@
+{
+  "platform": "hmhs",
+  "payer_count": 1,
+  "total_endpoints": 116,
+  "success_rate": 100.0,
+  "endpoints": [
+    {
+      "url": "https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-11-01_BlueCrossBlueShieldND_index.json",
+      "type": "index_files",
+      "payer": "mrfdata.hmhs.com"
+    }
+  ],
+  "payers": [
+    {
+      "name": "mrfdata.hmhs.com",
+      "url": "https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-11-01_BlueCrossBlueShieldND_index.json",
+      "endpoint_count": 1,
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.272445",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json",
+    "last_updated": null
+  }
+}

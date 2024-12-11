@@ -1,0 +1,28 @@
+{
+  "payer": "healthy",
+  "platform": "unknown",
+  "total_endpoints": 9,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://cdn.cookielaw.org/consent/018f82b9-df47-74f4-ae6f-97aafc239f6d/018f82b9-df47-74f4-ae6f-97aafc239f6d.json",
+      "https://cdn.cookielaw.org/consent/018f82b9-df47-74f4-ae6f-97aafc239f6d/0190181b-63c0-7094-a00d-4ac1d24acfcb/en.json",
+      "https://cdn.cookielaw.org/scripttemplates/202405.2.0/assets/otFlat.json",
+      "https://cdn.cookielaw.org/scripttemplates/202405.2.0/assets/v2/otPcTab.json",
+      "https://healthy.kaiserpermanente.org/config\\u002Djson\\/kp\\u002Dfoundation.json",
+      "https://healthy.kaiserpermanente.org/front-door/machine-readable",
+      "https://www.health1.firsthealth.com/app/public/#/one/insurerCode=FIRSTHEALTH_I&brandCode=FIRSTH/machine-readable-transparency-in-coverage?reportingEntityType=Rental%20Network_962515995&lock=true",
+      "https://www.health1.firsthealth.com/app/public/#/one/insurerCode=FIRSTHEALTH_I&brandCode=FIRSTH/machine-readable-transparency-in-coverage?reportingEntityType=Rental%20Network_962529760&lock=true",
+      "https://www.health1.firsthealth.com/app/public/#/one/insurerCode=FIRSTHEALTH_I&brandCode=FIRSTH/machine-readable-transparency-in-coverage?reportingEntityType=Rental%20Network_962531483&lock=true"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.297024",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

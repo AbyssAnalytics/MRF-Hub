@@ -1,0 +1,89 @@
+{
+  "generated_at": "2024-12-11T09:57:45.302176",
+  "source_file": "output/mrf_analysis_results_0-72_20241211_092625.json",
+  "available_downloads": {
+    "platforms": {
+      "centene": {
+        "complete": "platforms/centene_complete.json",
+        "endpoints_only": "platforms/centene_endpoints.json"
+      },
+      "gcp": {
+        "complete": "platforms/gcp_complete.json",
+        "endpoints_only": "platforms/gcp_endpoints.json"
+      },
+      "healthsparq": {
+        "complete": "platforms/healthsparq_complete.json",
+        "endpoints_only": "platforms/healthsparq_endpoints.json"
+      },
+      "self_hosted": {
+        "complete": "platforms/self_hosted_complete.json",
+        "endpoints_only": "platforms/self_hosted_endpoints.json"
+      },
+      "aws": {
+        "complete": "platforms/aws_complete.json",
+        "endpoints_only": "platforms/aws_endpoints.json"
+      },
+      "bcbs": {
+        "complete": "platforms/bcbs_complete.json",
+        "endpoints_only": "platforms/bcbs_endpoints.json"
+      },
+      "sapphire": {
+        "complete": "platforms/sapphire_complete.json",
+        "endpoints_only": "platforms/sapphire_endpoints.json"
+      },
+      "azure": {
+        "complete": "platforms/azure_complete.json",
+        "endpoints_only": "platforms/azure_endpoints.json"
+      },
+      "hmhs": {
+        "complete": "platforms/hmhs_complete.json",
+        "endpoints_only": "platforms/hmhs_endpoints.json"
+      }
+    },
+    "payers": {
+      "centene": "payers/centene.json",
+      "amerihealth": "payers/amerihealth.json",
+      "health1": "payers/health1.json",
+      "bcbsal": "payers/bcbsal.json",
+      "floridablue": "payers/floridablue.json",
+      "bcbsil": "payers/bcbsil.json",
+      "bcbskc": "payers/bcbskc.json",
+      "bcbsla": "payers/bcbsla.json",
+      "bcbsm": "payers/bcbsm.json",
+      "bcbsks": "payers/bcbsks.json",
+      "bcbsmt": "payers/bcbsmt.json",
+      "bcbsnm": "payers/bcbsnm.json",
+      "bcbsok": "payers/bcbsok.json",
+      "mrfdata": "payers/mrfdata.json",
+      "mrfmftprod": "payers/mrfmftprod.json",
+      "bluecrossnc": "payers/bluecrossnc.json",
+      "southcarolinablues": "payers/southcarolinablues.json",
+      "bcbst": "payers/bcbst.json",
+      "bcbstx": "payers/bcbstx.json",
+      "bluecrossvt": "payers/bluecrossvt.json",
+      "bci": "payers/bci.json",
+      "individual": "payers/individual.json",
+      "caresource": "payers/caresource.json",
+      "blueshieldca": "payers/blueshieldca.json",
+      "cigna": "payers/cigna.json",
+      "ccok": "payers/ccok.json",
+      "hmsa": "payers/hmsa.json",
+      "mrf": "payers/mrf.json",
+      "healthpartners": "payers/healthpartners.json",
+      "horizonblue": "payers/horizonblue.json",
+      "ibx": "payers/ibx.json",
+      "healthy": "payers/healthy.json",
+      "lifewise": "payers/lifewise.json",
+      "premera": "payers/premera.json",
+      "securityhealth": "payers/securityhealth.json",
+      "regence": "payers/regence.json",
+      "payerset-public": "payers/payerset-public.json",
+      "upmchealthplan": "payers/upmchealthplan.json",
+      "vivahealth": "payers/vivahealth.json"
+    }
+  },
+  "file_counts": {
+    "platforms": 9,
+    "payers": 39
+  }
+}

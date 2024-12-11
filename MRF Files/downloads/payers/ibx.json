@@ -1,0 +1,36 @@
+{
+  "payer": "ibx",
+  "platform": "unknown",
+  "total_endpoints": 15,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [
+      "https://www.ibx.com/scripts/custom/cms-data/ibc-khpe/index.json",
+      "https://www.ibx.com/scripts/custom/cms-data/ibc-qcc/index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/31609-dn-provider.json",
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/31609-md-provider.json",
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/31609-vs-provider.json",
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/33871-dn-provider.json",
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/33871-md-provider.json",
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/33871-vs-provider.json",
+      "https://www.ibx.com/scripts/custom/cms-data/ibc-khpe/33871-rx-provider.json",
+      "https://www.ibx.com/scripts/custom/cms-data/ibc-qcc/31609-rx-provider.json"
+    ],
+    "other": [
+      "https://fm.formularynavigator.com/jsonFiles/publish/197/108/drugs.json",
+      "https://fm.formularynavigator.com/jsonFiles/publish/197/108/plans.json",
+      "https://fm.formularynavigator.com/jsonFiles/publish/197/110/drugs.json",
+      "https://fm.formularynavigator.com/jsonFiles/publish/197/110/plans.json",
+      "https://www.ibx.com/resources/for-members/transparency-in-coverage"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.296041",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

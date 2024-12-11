@@ -1,0 +1,22 @@
+{
+  "payer": "bcbsm",
+  "platform": "unknown",
+  "total_endpoints": 3,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": [
+      "https://www.bcbsm.com/amslibs/content/dam/public/shared-assets/documents/externalModal.json",
+      "https://www.bcbsm.com/mrf/index/",
+      "https://www.bcbsm.com/mrf/index/.advantageplanpremium.json?year=2021&planId=&countyId=wayne"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.280107",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

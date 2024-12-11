@@ -1,0 +1,20 @@
+{
+  "payer": "caresource",
+  "platform": "unknown",
+  "total_endpoints": 1,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [
+      "https://www.caresource.com/vendor/tic/tic-data-index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [],
+    "other": []
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.291077",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}

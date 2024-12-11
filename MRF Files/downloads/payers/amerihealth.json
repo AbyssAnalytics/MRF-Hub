@@ -1,0 +1,33 @@
+{
+  "payer": "amerihealth",
+  "platform": "unknown",
+  "total_endpoints": 12,
+  "success_rate": 100.0,
+  "last_updated": null,
+  "endpoints": {
+    "index_files": [
+      "https://amerihealthnj.com/Resources/cms-data/ahnj-hmo/index.json",
+      "https://www.amerihealthnj.com/Resources/cms-data/ahnj-ic/index.json"
+    ],
+    "in_network": [],
+    "allowed_amounts": [],
+    "provider_references": [
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/77606-md-provider.json",
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/77606-vs-provider.json",
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/91762-md-provider.json",
+      "https://storage.googleapis.com/ihg-dart-edw-mrf-prod-public/pennie/91762-vs-provider.json",
+      "https://www.amerihealth.com/scripts/custom/cms-data/ahnj-hmo/77606-rx-provider.json",
+      "https://www.amerihealth.com/scripts/custom/cms-data/ahnj-ic/91762-rx-provider-1.json"
+    ],
+    "other": [
+      "https://fm.formularynavigator.com/jsonFiles/publish/197/112/drugs.json",
+      "https://fm.formularynavigator.com/jsonFiles/publish/197/112/plans.json",
+      "https://fm.formularynavigator.com/jsonFiles/publish/197/113/drugs.json",
+      "https://fm.formularynavigator.com/jsonFiles/publish/197/113/plans.json"
+    ]
+  },
+  "metadata": {
+    "generated_at": "2024-12-11T09:57:45.274443",
+    "source": "output/mrf_analysis_results_0-72_20241211_092625.json"
+  }
+}
