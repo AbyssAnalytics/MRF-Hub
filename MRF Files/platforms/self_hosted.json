@@ -1,0 +1,405 @@
+{
+  "payers": [
+    {
+      "url": "https://www.bcbsal.org/web/tcr",
+      "domain": "www.bcbsal.org",
+      "endpoints": {
+        "other": [
+          "https://www.bcbsal.org/web/transparency-in-coverage"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 0,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 1,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://www.bcbsil.com/member/policy-forms/machine-readable-file",
+      "domain": "www.bcbsil.com",
+      "endpoints": {
+        "other": [
+          "https://collection.decibelinsight.net/i/13998/614634/c.json",
+          "https://www.bcbsil.com/content/dam/bcbs/mrf/fi-filelist.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://www.bcbsm.com/mrf/index/",
+      "domain": "www.bcbsm.com",
+      "endpoints": {
+        "other": [
+          "https://www.bcbsm.com/amslibs/content/dam/public/shared-assets/documents/externalModal.json",
+          "https://www.bcbsm.com/mrf/index/",
+          "https://www.bcbsm.com/mrf/index/.advantageplanpremium.json?year=2021&planId=&countyId=wayne"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://www.bcbsks.com/mrf",
+      "domain": "www.bcbsks.com",
+      "endpoints": {
+        "other": [
+          "https://js.callrail.com/group/0/ef8a9f833e94f90bac37/12/swap_session.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://www.bcbsnm.com/member/policy-forms/machine-readable-file",
+      "domain": "www.bcbsnm.com",
+      "endpoints": {
+        "other": [
+          "https://collection.decibelinsight.net/i/13998/614634/c.json",
+          "https://www.bcbsnm.com/content/dam/bcbs/mrf/fi-filelist.json"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "index_files": true,
+          "toc_files": true,
+          "table_of_contents": true,
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 2,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 2,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://www.bcbsok.com/member/policy-forms/machine-readable-file",
+      "domain": "www.bcbsok.com",
+      "endpoints": {
+        "other": [
+          "https://collection.decibelinsight.net/i/13998/614634/c.json",
+          "https://www.bcbsok.com/content/dam/bcbs/mrf/fi-filelist.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29_blue-cross-and-blue-shield-of-north-carolina_index.json",
+      "domain": "mrfmftprod.bcbsnc.com",
+      "endpoints": {
+        "index_files": [
+          "https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29_blue-cross-and-blue-shield-of-north-carolina_index.json"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "index_files": true,
+          "toc_files": true,
+          "table_of_contents": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 1,
+          "dated_files": 1,
+          "versioned_files": 0,
+          "total_endpoints": 1,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 100.0
+        }
+      }
+    },
+    {
+      "url": "https://www.bluecrossnc.com/policies-best-practices/machine-readable-files",
+      "domain": "www.bluecrossnc.com",
+      "endpoints": {
+        "index_files": [
+          "https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-11-25_blue-cross-and-blue-shield-of-north-carolina_index.json"
+        ],
+        "other": [
+          "https://www.bluecrossnc.com/content/bcbsnc/us/en/policies-best-practices/machine-readable-files/jcr:content/root/v1/container_190471051/contentfragmentlist.model.json",
+          "https://www.bluecrossnc.com/policies-best-practices/machine-readable-files/jcr:content/root/v1/container_190471051/contentfragmentlist.model.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://www.southcarolinablues.com/web/public/brands/universal/transparency-in-coverage/?branding=sc",
+      "domain": "www.southcarolinablues.com",
+      "endpoints": {
+        "other": [
+          "https://www.southcarolinablues.com/WebContentCategory.json"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "index_files": true,
+          "toc_files": true,
+          "table_of_contents": true,
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 1,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 1,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://www.bcbstx.com/member/policy-forms/machine-readable-file",
+      "domain": "www.bcbstx.com",
+      "endpoints": {
+        "other": [
+          "https://collection.decibelinsight.net/i/13998/614634/c.json",
+          "https://www.bcbstx.com/content/dam/bcbs/mrf/fi-filelist.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://individual.carefirst.com/individuals-families/mandates-policies/machine-readable-file.page?submit=true&componentID=1645309246851",
+      "domain": "individual.carefirst.com",
+      "endpoints": {
+        "other": [
+          "https://s.yimg.com/wi/config/10189308.json",
+          "https://s.yimg.com/wi/config/10190418.json"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "index_files": true,
+          "toc_files": true,
+          "table_of_contents": true,
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 2,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 2,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://www.caresource.com/vendor/tic/tic-data-index.json",
+      "domain": "www.caresource.com",
+      "endpoints": {
+        "index_files": [
+          "https://www.caresource.com/vendor/tic/tic-data-index.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://www.cigna.com/legal/compliance/machine-readable-files",
+      "domain": "www.cigna.com",
+      "endpoints": {
+        "other": [
+          "https://cdn.cookielaw.org/consent/51421e0d-e647-4b8b-8e9c-6da1d6781b40/0192de2e-47e0-77ad-8fa4-8dace573e9f4/en.json",
+          "https://cdn.cookielaw.org/consent/51421e0d-e647-4b8b-8e9c-6da1d6781b40/51421e0d-e647-4b8b-8e9c-6da1d6781b40.json",
+          "https://cdn.cookielaw.org/scripttemplates/202403.2.0/assets/v2/otPcCenter.json",
+          "https://ucm-us.verint-cdn.com/files/sites/cigna/live/config.json",
+          "https://www.cigna.com/legal/compliance/machine-readable",
+          "https://www.cigna.com/static/mrf/latest.json",
+          "https://www.cigna.com/static/www-cigna-com/json/machine-readable-files.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://www.ccok.com/Price-Transparency/Machine-Readable/",
+      "domain": "www.ccok.com",
+      "endpoints": {
+        "other": [
+          "https://prod.ds.interqual.com/service/connect/transparency?tid=d3b99e7f-46ca-4a41-b9f8-c3a0a37c64c4",
+          "https://www.ccok.com/Price-Transparency/Machine-Readable/"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "index_files": true,
+          "toc_files": true,
+          "table_of_contents": true,
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 0,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 2,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://hmsa.com/help-center/transparency-in-coverage-machine-readable-files/",
+      "domain": "hmsa.com",
+      "endpoints": {
+        "formulary": [
+          "https://hmsa.com/media/api/drug-formulary-list.min.json"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 1,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 1,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://mrf.thehealthplan.com/content/MRF/toc.zip",
+      "domain": "mrf.thehealthplan.com",
+      "endpoints": {
+        "other": [
+          "https://mrf.thehealthplan.com/content/MRF/toc.zip"
+        ]
+      },
+      "status": "error",
+      "error": "Failed to fetch content"
+    },
+    {
+      "url": "https://www.healthpartners.com/insurance/members/health-care-price-transparency/",
+      "domain": "www.healthpartners.com",
+      "endpoints": {
+        "other": [
+          "https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rule-fact-sheet-cms-9915-f"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 0,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 1,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://healthy.kaiserpermanente.org/front-door/machine-readable",
+      "domain": "healthy.kaiserpermanente.org",
+      "endpoints": {
+        "other": [
+          "https://cdn.cookielaw.org/consent/018f82b9-df47-74f4-ae6f-97aafc239f6d/018f82b9-df47-74f4-ae6f-97aafc239f6d.json",
+          "https://cdn.cookielaw.org/consent/018f82b9-df47-74f4-ae6f-97aafc239f6d/0190181b-63c0-7094-a00d-4ac1d24acfcb/en.json",
+          "https://cdn.cookielaw.org/scripttemplates/202405.2.0/assets/otFlat.json",
+          "https://cdn.cookielaw.org/scripttemplates/202405.2.0/assets/v2/otPcTab.json",
+          "https://healthy.kaiserpermanente.org/config\\u002Djson\\/kp\\u002Dfoundation.json",
+          "https://healthy.kaiserpermanente.org/front-door/machine-readable",
+          "https://www.health1.firsthealth.com/app/public/#/one/insurerCode=FIRSTHEALTH_I&brandCode=FIRSTH/machine-readable-transparency-in-coverage?reportingEntityType=Rental%20Network_962515995&lock=true",
+          "https://www.health1.firsthealth.com/app/public/#/one/insurerCode=FIRSTHEALTH_I&brandCode=FIRSTH/machine-readable-transparency-in-coverage?reportingEntityType=Rental%20Network_962529760&lock=true",
+          "https://www.health1.firsthealth.com/app/public/#/one/insurerCode=FIRSTHEALTH_I&brandCode=FIRSTH/machine-readable-transparency-in-coverage?reportingEntityType=Rental%20Network_962531483&lock=true"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://www.regence.com/transparency-in-coverage/",
+      "domain": "www.regence.com",
+      "endpoints": {
+        "other": [
+          "https://www.regence.com/transparency-in-coverage/"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "index_files": true,
+          "toc_files": true,
+          "table_of_contents": true,
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 0,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 1,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://www.upmchealthplan.com/transparency-in-coverage/mrf/",
+      "domain": "www.upmchealthplan.com",
+      "endpoints": {
+        "other": [
+          "https://www.upmchealthplan.com/transparency",
+          "https://www.upmchealthplan.com/transparency-in-coverage/mrf/"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "index_files": true,
+          "toc_files": true,
+          "table_of_contents": true,
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 0,
+          "dated_files": 0,
+          "versioned_files": 0,
+          "total_endpoints": 2,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 0.0
+        }
+      }
+    },
+    {
+      "url": "https://www.vivahealth.com/mrf/",
+      "domain": "www.vivahealth.com",
+      "endpoints": {
+        "other": [
+          "https://www.vivahealth.com/mrf/"
+        ]
+      },
+      "status": "success"
+    }
+  ],
+  "total_endpoints": 4233,
+  "successful_requests": 20,
+  "failed_requests": 1
+}

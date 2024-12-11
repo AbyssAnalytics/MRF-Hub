@@ -1,0 +1,131 @@
+{
+  "payers": [
+    {
+      "url": "https://bcbskc.sapphiremrfhub.com/",
+      "domain": "bcbskc.sapphiremrfhub.com",
+      "endpoints": {
+        "index_files": [
+          "https://bcbskc.sapphiremrfhub.com/tocs/202412/2024-12-01_blue-cross-and-blue-shield-of-kansas-city_index.json"
+        ],
+        "other": [
+          "https://bcbskc.sapphiremrfhub.com/page-data/app-data.json",
+          "https://bcbskc.sapphiremrfhub.com/page-data/index/page-data.json",
+          "https://bcbskc.sapphiremrfhub.com/page-data/sq/d/254433488.json",
+          "https://bcbskc.sapphiremrfhub.com/page-data/sq/d/3220486668.json",
+          "https://bcbskc.sapphiremrfhub.com/page-data/sq/d/3847420470.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://bcbsla.sapphiremrfhub.com/",
+      "domain": "bcbsla.sapphiremrfhub.com",
+      "endpoints": {
+        "index_files": [
+          "https://bcbsla.sapphiremrfhub.com/tocs/202412/2024-12-01_hmola_index.json",
+          "https://bcbsla.sapphiremrfhub.com/tocs/202412/2024-12-01_lahsic_index.json"
+        ],
+        "other": [
+          "https://bcbsla.sapphiremrfhub.com/page-data/app-data.json",
+          "https://bcbsla.sapphiremrfhub.com/page-data/index/page-data.json",
+          "https://bcbsla.sapphiremrfhub.com/page-data/sq/d/254433488.json",
+          "https://bcbsla.sapphiremrfhub.com/page-data/sq/d/3220486668.json",
+          "https://bcbsla.sapphiremrfhub.com/page-data/sq/d/3847420470.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://bci.sapphiremrfhub.com/",
+      "domain": "bci.sapphiremrfhub.com",
+      "endpoints": {
+        "index_files": [
+          "https://bci.sapphiremrfhub.com/tocs/202412/2024-12-01_blue-cross-of-idaho_index.json"
+        ],
+        "other": [
+          "https://bci.sapphiremrfhub.com/page-data/app-data.json",
+          "https://bci.sapphiremrfhub.com/page-data/index/page-data.json",
+          "https://bci.sapphiremrfhub.com/page-data/sq/d/254433488.json",
+          "https://bci.sapphiremrfhub.com/page-data/sq/d/3220486668.json",
+          "https://bci.sapphiremrfhub.com/page-data/sq/d/3847420470.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://horizonblue.sapphiremrfhub.com/",
+      "domain": "horizonblue.sapphiremrfhub.com",
+      "endpoints": {
+        "index_files": [
+          "https://horizonblue.sapphiremrfhub.com/tocs/202412/2024-12-01_horizon-healthcare-services-i_index.json",
+          "https://horizonblue.sapphiremrfhub.com/tocs/202412/2024-12-01_horizon-healthcare-services_index.json"
+        ],
+        "other": [
+          "http://horizonblue.com/transparency-faqs",
+          "https://horizonblue.sapphiremrfhub.com/page-data/app-data.json",
+          "https://horizonblue.sapphiremrfhub.com/page-data/index/page-data.json",
+          "https://horizonblue.sapphiremrfhub.com/page-data/sq/d/254433488.json",
+          "https://horizonblue.sapphiremrfhub.com/page-data/sq/d/3220486668.json",
+          "https://horizonblue.sapphiremrfhub.com/page-data/sq/d/3847420470.json"
+        ]
+      },
+      "status": "success",
+      "metadata": {
+        "endpoint_types": {
+          "index_files": true,
+          "toc_files": true,
+          "table_of_contents": true,
+          "transparency": true
+        },
+        "file_types": {
+          "gzip_files": 0,
+          "json_files": 7,
+          "dated_files": 2,
+          "versioned_files": 0,
+          "total_endpoints": 8,
+          "gzip_percentage": 0.0,
+          "dated_percentage": 25.0
+        }
+      }
+    },
+    {
+      "url": "https://lifewise.sapphiremrfhub.com/",
+      "domain": "lifewise.sapphiremrfhub.com",
+      "endpoints": {
+        "index_files": [
+          "https://lifewise.sapphiremrfhub.com/tocs/202412/2024-12-01_lifewise-assurance-company_index.json",
+          "https://lifewise.sapphiremrfhub.com/tocs/202412/2024-12-01_lifewise-health-plan-of-washington_index.json"
+        ],
+        "other": [
+          "https://lifewise.sapphiremrfhub.com/page-data/app-data.json",
+          "https://lifewise.sapphiremrfhub.com/page-data/index/page-data.json",
+          "https://lifewise.sapphiremrfhub.com/page-data/sq/d/254433488.json",
+          "https://lifewise.sapphiremrfhub.com/page-data/sq/d/3220486668.json",
+          "https://lifewise.sapphiremrfhub.com/page-data/sq/d/3847420470.json"
+        ]
+      },
+      "status": "success"
+    },
+    {
+      "url": "https://premera.sapphiremrfhub.com/",
+      "domain": "premera.sapphiremrfhub.com",
+      "endpoints": {
+        "index_files": [
+          "https://premera.sapphiremrfhub.com/tocs/202412/2024-12-01_premera-blue-cross-hmo_index.json",
+          "https://premera.sapphiremrfhub.com/tocs/202412/2024-12-01_premera-blue-cross_index.json"
+        ],
+        "other": [
+          "https://premera.sapphiremrfhub.com/page-data/app-data.json",
+          "https://premera.sapphiremrfhub.com/page-data/index/page-data.json",
+          "https://premera.sapphiremrfhub.com/page-data/sq/d/254433488.json",
+          "https://premera.sapphiremrfhub.com/page-data/sq/d/3220486668.json",
+          "https://premera.sapphiremrfhub.com/page-data/sq/d/3847420470.json"
+        ]
+      },
+      "status": "success"
+    }
+  ],
+  "total_endpoints": 3189,
+  "successful_requests": 6,
+  "failed_requests": 0
+}

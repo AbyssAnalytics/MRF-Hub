@@ -1,0 +1,17 @@
+{
+  "payers": [
+    {
+      "url": "https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-11-01_BlueCrossBlueShieldND_index.json",
+      "domain": "mrfdata.hmhs.com",
+      "endpoints": {
+        "index_files": [
+          "https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-11-01_BlueCrossBlueShieldND_index.json"
+        ]
+      },
+      "status": "success"
+    }
+  ],
+  "total_endpoints": 116,
+  "successful_requests": 1,
+  "failed_requests": 0
+}
