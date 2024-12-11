@@ -1,12 +1,12 @@
 {
   "quick_links": {
-    "all_endpoints": "mrf_endpoints.json",
     "summary": "summary.json",
-    "analytics": "analytics/overview.json"
+    "analytics": "analytics/overview.json",
+    "downloads": "downloads/manifest.json"
   },
   "payers": {
     "centene": {
-      "file": "payers/centene.json",
+      "file": "downloads/payers/centene.json",
       "endpoint_count": 102,
       "platform": "unknown",
       "last_updated": "2024-11-25",
@@ -19,7 +19,7 @@
       ]
     },
     "amerihealth": {
-      "file": "payers/amerihealth.json",
+      "file": "downloads/payers/amerihealth.json",
       "endpoint_count": 12,
       "platform": "unknown",
       "last_updated": null,
@@ -32,7 +32,7 @@
       ]
     },
     "health1": {
-      "file": "payers/health1.json",
+      "file": "downloads/payers/health1.json",
       "endpoint_count": 9,
       "platform": "unknown",
       "last_updated": null,
@@ -45,7 +45,7 @@
       ]
     },
     "bcbsal": {
-      "file": "payers/bcbsal.json",
+      "file": "downloads/payers/bcbsal.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -58,7 +58,7 @@
       ]
     },
     "floridablue": {
-      "file": "payers/floridablue.json",
+      "file": "downloads/payers/floridablue.json",
       "endpoint_count": 6,
       "platform": "unknown",
       "last_updated": null,
@@ -71,7 +71,7 @@
       ]
     },
     "bcbsil": {
-      "file": "payers/bcbsil.json",
+      "file": "downloads/payers/bcbsil.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": null,
@@ -84,7 +84,7 @@
       ]
     },
     "bcbskc": {
-      "file": "payers/bcbskc.json",
+      "file": "downloads/payers/bcbskc.json",
       "endpoint_count": 6,
       "platform": "unknown",
       "last_updated": "2024-12-01",
@@ -97,7 +97,7 @@
       ]
     },
     "bcbsla": {
-      "file": "payers/bcbsla.json",
+      "file": "downloads/payers/bcbsla.json",
       "endpoint_count": 7,
       "platform": "unknown",
       "last_updated": "2024-12-01",
@@ -110,7 +110,7 @@
       ]
     },
     "bcbsm": {
-      "file": "payers/bcbsm.json",
+      "file": "downloads/payers/bcbsm.json",
       "endpoint_count": 3,
       "platform": "unknown",
       "last_updated": null,
@@ -123,7 +123,7 @@
       ]
     },
     "bcbsks": {
-      "file": "payers/bcbsks.json",
+      "file": "downloads/payers/bcbsks.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -136,7 +136,7 @@
       ]
     },
     "bcbsmt": {
-      "file": "payers/bcbsmt.json",
+      "file": "downloads/payers/bcbsmt.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": "2024-11-21",
@@ -149,7 +149,7 @@
       ]
     },
     "bcbsnm": {
-      "file": "payers/bcbsnm.json",
+      "file": "downloads/payers/bcbsnm.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": null,
@@ -162,7 +162,7 @@
       ]
     },
     "bcbsok": {
-      "file": "payers/bcbsok.json",
+      "file": "downloads/payers/bcbsok.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": null,
@@ -175,7 +175,7 @@
       ]
     },
     "mrfdata": {
-      "file": "payers/mrfdata.json",
+      "file": "downloads/payers/mrfdata.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": "2024-11-01",
@@ -188,7 +188,7 @@
       ]
     },
     "mrfmftprod": {
-      "file": "payers/mrfmftprod.json",
+      "file": "downloads/payers/mrfmftprod.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": "2024-01-29",
@@ -201,7 +201,7 @@
       ]
     },
     "bluecrossnc": {
-      "file": "payers/bluecrossnc.json",
+      "file": "downloads/payers/bluecrossnc.json",
       "endpoint_count": 3,
       "platform": "unknown",
       "last_updated": "2024-11-25",
@@ -214,7 +214,7 @@
       ]
     },
     "southcarolinablues": {
-      "file": "payers/southcarolinablues.json",
+      "file": "downloads/payers/southcarolinablues.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -227,7 +227,7 @@
       ]
     },
     "bcbst": {
-      "file": "payers/bcbst.json",
+      "file": "downloads/payers/bcbst.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": null,
@@ -240,7 +240,7 @@
       ]
     },
     "bcbstx": {
-      "file": "payers/bcbstx.json",
+      "file": "downloads/payers/bcbstx.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": null,
@@ -253,7 +253,7 @@
       ]
     },
     "bluecrossvt": {
-      "file": "payers/bluecrossvt.json",
+      "file": "downloads/payers/bluecrossvt.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -266,7 +266,7 @@
       ]
     },
     "bci": {
-      "file": "payers/bci.json",
+      "file": "downloads/payers/bci.json",
       "endpoint_count": 6,
       "platform": "unknown",
       "last_updated": "2024-12-01",
@@ -279,7 +279,7 @@
       ]
     },
     "individual": {
-      "file": "payers/individual.json",
+      "file": "downloads/payers/individual.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": null,
@@ -292,7 +292,7 @@
       ]
     },
     "caresource": {
-      "file": "payers/caresource.json",
+      "file": "downloads/payers/caresource.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -305,7 +305,7 @@
       ]
     },
     "blueshieldca": {
-      "file": "payers/blueshieldca.json",
+      "file": "downloads/payers/blueshieldca.json",
       "endpoint_count": 3,
       "platform": "unknown",
       "last_updated": "2022-10-01",
@@ -318,7 +318,7 @@
       ]
     },
     "cigna": {
-      "file": "payers/cigna.json",
+      "file": "downloads/payers/cigna.json",
       "endpoint_count": 7,
       "platform": "unknown",
       "last_updated": null,
@@ -331,7 +331,7 @@
       ]
     },
     "ccok": {
-      "file": "payers/ccok.json",
+      "file": "downloads/payers/ccok.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": null,
@@ -344,7 +344,7 @@
       ]
     },
     "hmsa": {
-      "file": "payers/hmsa.json",
+      "file": "downloads/payers/hmsa.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -357,7 +357,7 @@
       ]
     },
     "mrf": {
-      "file": "payers/mrf.json",
+      "file": "downloads/payers/mrf.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -370,7 +370,7 @@
       ]
     },
     "healthpartners": {
-      "file": "payers/healthpartners.json",
+      "file": "downloads/payers/healthpartners.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -383,7 +383,7 @@
       ]
     },
     "horizonblue": {
-      "file": "payers/horizonblue.json",
+      "file": "downloads/payers/horizonblue.json",
       "endpoint_count": 8,
       "platform": "unknown",
       "last_updated": "2024-12-01",
@@ -396,7 +396,7 @@
       ]
     },
     "ibx": {
-      "file": "payers/ibx.json",
+      "file": "downloads/payers/ibx.json",
       "endpoint_count": 15,
       "platform": "unknown",
       "last_updated": null,
@@ -409,7 +409,7 @@
       ]
     },
     "healthy": {
-      "file": "payers/healthy.json",
+      "file": "downloads/payers/healthy.json",
       "endpoint_count": 9,
       "platform": "unknown",
       "last_updated": null,
@@ -422,7 +422,7 @@
       ]
     },
     "lifewise": {
-      "file": "payers/lifewise.json",
+      "file": "downloads/payers/lifewise.json",
       "endpoint_count": 7,
       "platform": "unknown",
       "last_updated": "2024-12-01",
@@ -435,7 +435,7 @@
       ]
     },
     "premera": {
-      "file": "payers/premera.json",
+      "file": "downloads/payers/premera.json",
       "endpoint_count": 7,
       "platform": "unknown",
       "last_updated": "2024-12-01",
@@ -448,7 +448,7 @@
       ]
     },
     "securityhealth": {
-      "file": "payers/securityhealth.json",
+      "file": "downloads/payers/securityhealth.json",
       "endpoint_count": 4,
       "platform": "unknown",
       "last_updated": null,
@@ -461,7 +461,7 @@
       ]
     },
     "regence": {
-      "file": "payers/regence.json",
+      "file": "downloads/payers/regence.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -474,7 +474,7 @@
       ]
     },
     "payerset-public": {
-      "file": "payers/payerset-public.json",
+      "file": "downloads/payers/payerset-public.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -487,7 +487,7 @@
       ]
     },
     "upmchealthplan": {
-      "file": "payers/upmchealthplan.json",
+      "file": "downloads/payers/upmchealthplan.json",
       "endpoint_count": 2,
       "platform": "unknown",
       "last_updated": null,
@@ -500,7 +500,7 @@
       ]
     },
     "vivahealth": {
-      "file": "payers/vivahealth.json",
+      "file": "downloads/payers/vivahealth.json",
       "endpoint_count": 1,
       "platform": "unknown",
       "last_updated": null,
@@ -515,47 +515,56 @@
   },
   "platforms": {
     "centene": {
-      "file": "platforms/centene.json",
+      "complete": "downloads/platforms/centene_complete.json",
+      "endpoints_only": "downloads/platforms/centene_endpoints.json",
       "payer_count": 6,
       "total_endpoints": 11190
     },
     "gcp": {
-      "file": "platforms/gcp.json",
+      "complete": "downloads/platforms/gcp_complete.json",
+      "endpoints_only": "downloads/platforms/gcp_endpoints.json",
       "payer_count": 2,
       "total_endpoints": 2302
     },
     "healthsparq": {
-      "file": "platforms/healthsparq.json",
+      "complete": "downloads/platforms/healthsparq_complete.json",
+      "endpoints_only": "downloads/platforms/healthsparq_endpoints.json",
       "payer_count": 4,
       "total_endpoints": 1384
     },
     "self_hosted": {
-      "file": "platforms/self_hosted.json",
+      "complete": "downloads/platforms/self_hosted_complete.json",
+      "endpoints_only": "downloads/platforms/self_hosted_endpoints.json",
       "payer_count": 14,
       "total_endpoints": 2788
     },
     "aws": {
-      "file": "platforms/aws.json",
+      "complete": "downloads/platforms/aws_complete.json",
+      "endpoints_only": "downloads/platforms/aws_endpoints.json",
       "payer_count": 5,
       "total_endpoints": 1383
     },
     "bcbs": {
-      "file": "platforms/bcbs.json",
+      "complete": "downloads/platforms/bcbs_complete.json",
+      "endpoints_only": "downloads/platforms/bcbs_endpoints.json",
       "payer_count": 7,
       "total_endpoints": 1441
     },
     "sapphire": {
-      "file": "platforms/sapphire.json",
+      "complete": "downloads/platforms/sapphire_complete.json",
+      "endpoints_only": "downloads/platforms/sapphire_endpoints.json",
       "payer_count": 6,
       "total_endpoints": 3189
     },
     "azure": {
-      "file": "platforms/azure.json",
+      "complete": "downloads/platforms/azure_complete.json",
+      "endpoints_only": "downloads/platforms/azure_endpoints.json",
       "payer_count": 1,
       "total_endpoints": 212
     },
     "hmhs": {
-      "file": "platforms/hmhs.json",
+      "complete": "downloads/platforms/hmhs_complete.json",
+      "endpoints_only": "downloads/platforms/hmhs_endpoints.json",
       "payer_count": 1,
       "total_endpoints": 116
     }

@@ -2,35 +2,35 @@
 
 Comprehensive analysis of payer MRF endpoints and hosting platforms.
 
-## Quick Start
-- [View All Endpoints](mrf_endpoints.json)
-- [Browse by Platform](platforms/)
-- [Browse by Payer](payers/)
-- [View Analytics](analytics/overview.json)
+## Quick Links
+- [View Summary](summary.json)
+- [Browse Analytics](analytics/overview.json)
 - [Download Index](index.json)
+- [View All Endpoints](downloads/manifest.json)
 
-## Navigation
+## Repository Structure
 This repository is organized to make MRF endpoint data easily accessible:
 
-1. **By Platform**: 
+1. **By Platform** (9 platforms):
    - Find endpoints grouped by hosting platform
-   - Each platform has its own JSON file in `platforms/`
-   - Currently tracking 9 platforms
+   - Complete data: `downloads/platforms/[platform]_complete.json`
+   - Endpoints only: `downloads/platforms/[platform]_endpoints.json`
+   - Platform list in [index.json](index.json)
 
-2. **By Payer**:
-   - Individual payer files in `payers/`
+2. **By Payer** (39 payers):
+   - Individual payer files in `downloads/payers/`
    - Contains endpoints, success rates, and metadata
-   - 39 payers with active endpoints
+   - Payer list in [index.json](index.json)
 
 3. **Analytics**:
-   - Detailed analysis in `analytics/`
-   - Update patterns, common structures, statistics
-   - Platform and payer comparisons
+   - [Overview](analytics/overview.json): patterns, statistics, trends
+   - Update frequency and platform comparisons
+   - File type analysis and common patterns
 
 4. **Downloads**:
+   - [Manifest](downloads/manifest.json): catalog of all available files
    - Pre-packaged JSON files by platform and payer
-   - Compressed archives for bulk download
-   - Updated with each analysis
+   - Updated with each analysis run
 
 ## Coverage Summary
 - Total Payers Analyzed: 73
@@ -96,13 +96,21 @@ This repository is organized to make MRF endpoint data easily accessible:
 - 2024-12-01: **Horizonblue** updated their endpoints
 - 2024-12-01: **Lifewise** updated their endpoints
 
-## File Structure
-- `summary.json`: Overall analysis summary
-- `mrf_endpoints.json`: Complete list of identified MRF endpoints
-- `platforms/`: Detailed results grouped by hosting platform
-- `payers/`: Individual payer results and endpoints
-- `analytics/`: Additional analytical data and reports
-- `downloads/`: Pre-packaged JSON files by platform and payer
+## Directory Structure
+
+.
++-- index.json                 # Navigation and quick access
++-- summary.json              # Overall analysis summary
++-- analytics/
+|   +-- overview.json        # Detailed analytics and patterns
++-- downloads/               # Pre-packaged downloads
+    +-- manifest.json        # Download catalog
+    +-- platforms/          # Platform packages
+    |   +-- centene_complete.json
+    |   +-- centene_endpoints.json
+    +-- payers/             # Payer packages
+        +-- centene.json
+
 
 ## Analysis Date
 2024-12-11T09:26:25.902982
