@@ -10,17 +10,17 @@
     "centene": 6,
     "gcp": 2,
     "healthsparq": 4,
-    "self_hosted": 21,
+    "self_hosted": 14,
     "aws": 5,
+    "bcbs": 7,
     "sapphire": 6,
     "azure": 1,
     "hmhs": 1
   },
   "endpoint_types": {
     "index_files": 22,
-    "other": 39,
-    "provider_references": 6,
-    "formulary": 4
+    "other": 42,
+    "provider_references": 6
   },
   "file_statistics": {
     "gzip_files": 1,

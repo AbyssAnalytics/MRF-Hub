@@ -1,0 +1,371 @@
+{
+  "overview": {
+    "endpoint_patterns": {
+      "path_patterns": {
+        "content/dam": 82,
+        "page-data/sq": 18,
+        "ihg-dart-edw-mrf-prod-public/pennie": 10,
+        "tocs/202412": 10,
+        "jsonFiles/publish": 8,
+        "legal/compliance": 7,
+        "content/healthnet": 6,
+        "machine-readable-file/search": 6,
+        "scripts/custom": 6,
+        "aetnacvs-egress.nophi.kyruushsq.com/prd": 6
+      },
+      "file_patterns": {
+        "2024-11-25": 79,
+        "2024-12-01": 10,
+        "machine-readable-files": 9,
+        "transparency-files.html": 6,
+        "transparencymrf": 6,
+        "3220486668.json": 6,
+        "app-data.json": 6,
+        "3847420470.json": 6,
+        "page-data.json": 6,
+        "254433488.json": 6
+      },
+      "date_formats": {
+        "2024-11-25": 79,
+        "202412": 10,
+        "2024-12-01": 10,
+        "32204866": 6,
+        "38474204": 6,
+        "25443348": 6,
+        "614634": 5,
+        "19047105": 2,
+        "2022-10-01": 2,
+        "202405": 2
+      },
+      "common_prefixes": {
+        "content": 90,
+        "page-data": 30,
+        "ihg-dart-edw-mrf-prod-public": 10,
+        "tocs": 10,
+        "jsonFiles": 8,
+        "legal": 7,
+        "transparencymrf": 6,
+        "machine-readable-file": 6,
+        "scripts": 6,
+        "aetnacvs-egress.nophi.kyruushsq.com": 6
+      }
+    },
+    "update_frequency": {
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "quarterly": 0,
+      "dates": [
+        "2022-10-01",
+        "2024-01-29",
+        "2024-11-01",
+        "2024-11-21",
+        "2024-11-25",
+        "2024-12-01"
+      ],
+      "latest_update": "2024-12-01",
+      "update_patterns": {
+        "index": 92,
+        "Blue-Shield-of-California": 1
+      }
+    },
+    "platform_stats": {
+      "centene": {
+        "payer_count": 6,
+        "total_endpoints": 11190,
+        "success_rate": 100.0,
+        "endpoint_types": {
+          "index_files": 6,
+          "other": 6
+        }
+      },
+      "gcp": {
+        "payer_count": 2,
+        "total_endpoints": 2302,
+        "success_rate": 100.0,
+        "endpoint_types": {
+          "index_files": 2,
+          "provider_references": 2,
+          "other": 2
+        }
+      },
+      "healthsparq": {
+        "payer_count": 4,
+        "total_endpoints": 1384,
+        "success_rate": 100.0,
+        "endpoint_types": {
+          "provider_references": 3,
+          "other": 4
+        }
+      },
+      "self_hosted": {
+        "payer_count": 14,
+        "total_endpoints": 2788,
+        "success_rate": 92.86,
+        "endpoint_types": {
+          "other": 13,
+          "index_files": 1
+        }
+      },
+      "aws": {
+        "payer_count": 5,
+        "total_endpoints": 1383,
+        "success_rate": 100.0,
+        "endpoint_types": {
+          "index_files": 3,
+          "other": 4,
+          "provider_references": 1
+        }
+      },
+      "bcbs": {
+        "payer_count": 7,
+        "total_endpoints": 1441,
+        "success_rate": 100.0,
+        "endpoint_types": {
+          "other": 6,
+          "index_files": 2
+        }
+      },
+      "sapphire": {
+        "payer_count": 6,
+        "total_endpoints": 3189,
+        "success_rate": 100.0,
+        "endpoint_types": {
+          "index_files": 6,
+          "other": 6
+        }
+      },
+      "azure": {
+        "payer_count": 1,
+        "total_endpoints": 212,
+        "success_rate": 100.0,
+        "endpoint_types": {
+          "index_files": 1,
+          "other": 1
+        }
+      },
+      "hmhs": {
+        "payer_count": 1,
+        "total_endpoints": 116,
+        "success_rate": 100.0,
+        "endpoint_types": {
+          "index_files": 1
+        }
+      }
+    },
+    "payer_stats": {
+      "top_payers": [
+        {
+          "payer": "centene",
+          "endpoints": 102,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "ibx",
+          "endpoints": 15,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "amerihealth",
+          "endpoints": 12,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "health1",
+          "endpoints": 9,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "healthy",
+          "endpoints": 9,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "horizonblue",
+          "endpoints": 8,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "bcbsla",
+          "endpoints": 7,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "cigna",
+          "endpoints": 7,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "lifewise",
+          "endpoints": 7,
+          "platform": "unknown",
+          "success_rate": 100.0
+        },
+        {
+          "payer": "premera",
+          "endpoints": 7,
+          "platform": "unknown",
+          "success_rate": 100.0
+        }
+      ],
+      "update_frequency": {
+        "2024-12": 6,
+        "2024-11": 4,
+        "2024-01": 1,
+        "2022-10": 1
+      },
+      "common_platforms": {},
+      "endpoint_distribution": {
+        "min": 1,
+        "max": 102,
+        "avg": 6.28
+      }
+    }
+  },
+  "downloads": {
+    "by_platform": {
+      "centene": "platforms/centene.json",
+      "gcp": "platforms/gcp.json",
+      "healthsparq": "platforms/healthsparq.json",
+      "self_hosted": "platforms/self_hosted.json",
+      "aws": "platforms/aws.json",
+      "bcbs": "platforms/bcbs.json",
+      "sapphire": "platforms/sapphire.json",
+      "azure": "platforms/azure.json",
+      "hmhs": "platforms/hmhs.json"
+    },
+    "by_payer": {
+      "centene": "payers/centene.json",
+      "amerihealth": "payers/amerihealth.json",
+      "health1": "payers/health1.json",
+      "bcbsal": "payers/bcbsal.json",
+      "floridablue": "payers/floridablue.json",
+      "bcbsil": "payers/bcbsil.json",
+      "bcbskc": "payers/bcbskc.json",
+      "bcbsla": "payers/bcbsla.json",
+      "bcbsm": "payers/bcbsm.json",
+      "bcbsks": "payers/bcbsks.json",
+      "bcbsmt": "payers/bcbsmt.json",
+      "bcbsnm": "payers/bcbsnm.json",
+      "bcbsok": "payers/bcbsok.json",
+      "mrfdata": "payers/mrfdata.json",
+      "mrfmftprod": "payers/mrfmftprod.json",
+      "bluecrossnc": "payers/bluecrossnc.json",
+      "southcarolinablues": "payers/southcarolinablues.json",
+      "bcbst": "payers/bcbst.json",
+      "bcbstx": "payers/bcbstx.json",
+      "bluecrossvt": "payers/bluecrossvt.json",
+      "bci": "payers/bci.json",
+      "individual": "payers/individual.json",
+      "caresource": "payers/caresource.json",
+      "blueshieldca": "payers/blueshieldca.json",
+      "cigna": "payers/cigna.json",
+      "ccok": "payers/ccok.json",
+      "hmsa": "payers/hmsa.json",
+      "mrf": "payers/mrf.json",
+      "healthpartners": "payers/healthpartners.json",
+      "horizonblue": "payers/horizonblue.json",
+      "ibx": "payers/ibx.json",
+      "healthy": "payers/healthy.json",
+      "lifewise": "payers/lifewise.json",
+      "premera": "payers/premera.json",
+      "securityhealth": "payers/securityhealth.json",
+      "regence": "payers/regence.json",
+      "payerset-public": "payers/payerset-public.json",
+      "upmchealthplan": "payers/upmchealthplan.json",
+      "vivahealth": "payers/vivahealth.json"
+    }
+  },
+  "platform_summary": {
+    "centene": {
+      "payer_count": 6,
+      "total_endpoints": 11190,
+      "success_rate": 100.0,
+      "endpoint_types": {
+        "index_files": 13,
+        "other": 4
+      }
+    },
+    "gcp": {
+      "payer_count": 2,
+      "total_endpoints": 2302,
+      "success_rate": 100.0,
+      "endpoint_types": {
+        "index_files": 2,
+        "provider_references": 8,
+        "other": 5
+      }
+    },
+    "healthsparq": {
+      "payer_count": 4,
+      "total_endpoints": 1384,
+      "success_rate": 100.0,
+      "endpoint_types": {
+        "provider_references": 2,
+        "other": 1
+      }
+    },
+    "self_hosted": {
+      "payer_count": 14,
+      "total_endpoints": 2788,
+      "success_rate": 92.86,
+      "endpoint_types": {
+        "other": 1,
+        "index_files": 1
+      }
+    },
+    "aws": {
+      "payer_count": 5,
+      "total_endpoints": 1383,
+      "success_rate": 100.0,
+      "endpoint_types": {
+        "index_files": 1,
+        "other": 2,
+        "provider_references": 1
+      }
+    },
+    "bcbs": {
+      "payer_count": 7,
+      "total_endpoints": 1441,
+      "success_rate": 100.0,
+      "endpoint_types": {
+        "other": 2,
+        "index_files": 1
+      }
+    },
+    "sapphire": {
+      "payer_count": 6,
+      "total_endpoints": 3189,
+      "success_rate": 100.0,
+      "endpoint_types": {
+        "index_files": 2,
+        "other": 5
+      }
+    },
+    "azure": {
+      "payer_count": 1,
+      "total_endpoints": 212,
+      "success_rate": 100.0,
+      "endpoint_types": {
+        "index_files": 1,
+        "other": 1
+      }
+    },
+    "hmhs": {
+      "payer_count": 1,
+      "total_endpoints": 116,
+      "success_rate": 100.0,
+      "endpoint_types": {
+        "index_files": 1
+      }
+    }
+  }
+}
